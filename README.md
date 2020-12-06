@@ -12,7 +12,7 @@ In addition to programming and web development, I really enjoy travelling, tryin
 Apart from that, I'm into different sports and outdoor activities, such as tennis, ping pong, hiking, camping, cycling, pool and many more. I like to try new things every single time.
 Also, I like to spend my free time by reading books (mostly science fiction), learning to play musical instruments (particularly guitar), and having interesting and deep conversations about anything.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/akmaldju/akmaldju/master/images/coding-cat.gif" width="200px" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/akmaldju/akmaldju/master/images/coding-cat.gif" width="220px" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
