@@ -43,11 +43,11 @@ Also, I like to spend my free time by reading books (mostly science fiction), le
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://akmal.now.sh"><img src="https://img.shields.io/badge/-akmal.now.sh-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://facebook.com/akmal.djumakhodjaev"><img src="https://img.shields.io/badge/-Akmal%20Djumakhodjaev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/akmal-djumakhodjaev/"><img src="https://img.shields.io/badge/-Akmal%20Djumakhodjaev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:akmal070597@gmail.com"><img src="https://img.shields.io/badge/-akmal070597@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/akmaldju"><img src="https://img.shields.io/badge/-@akmaldju-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="skype:akmaldju?userinfo"><img src="https://img.shields.io/badge/-@akmaldju-BD081C?style=flat&logo=Skype&logoColor=white"/></a>
-<a href="https://t.me/akmal_djumakhodjaev"><img src="https://img.shields.io/badge/-@akmal_djumakhodjaev-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://akmal.now.sh"><img src="https://img.shields.io/badge/-Akmal%20Djumakhodjaev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://facebook.com/akmal.djumakhodjaev"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/akmal-djumakhodjaev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:akmal070597@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/akmaldju"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="skype:akmaldju?userinfo"><img src="https://img.shields.io/badge/-Skype-BD081C?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="https://t.me/akmal_djumakhodjaev"><img src="https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
