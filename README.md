@@ -57,3 +57,6 @@ Also, I like to spend my free time by reading books (mostly science fiction), le
 <a href="skype:akmaldju?userinfo"><img src="https://img.shields.io/badge/-Skype-BD081C?style=flat&logo=Skype&logoColor=white"/></a>
 <a href="https://t.me/akmal_djumakhodjaev"><img src="https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
+
+### 💼 &nbsp;Check Out My Second Account: 
+<p align="center"><a href="https://github.com/akmal-binary"><img src="https://img.shields.io/badge/Akmal%20Binary-000000?style=for-the-badge&logo=Github&logoColor=white"/></a></p>
