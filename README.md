@@ -36,12 +36,12 @@ Also, I like to spend my free time by reading books (mostly science fiction), le
 <p align="center">
 <a href="https://github.com/akmaldju">
   <img height="180" width="450" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akmaldju&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="180" width="330" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akmaldju&layout=compact&langs_count=8&theme=algolia&hide=html"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/akmaldju">
-  <img height="180" width="340" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akmaldju&layout=compact&langs_count=8&theme=algolia&hide=html"/>
   <img height="180" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=akmaldju&theme=tokyonight"/>
 </a>
 </p>
