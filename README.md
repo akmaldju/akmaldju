@@ -2,15 +2,15 @@
 
 ## 👋 &nbsp;Hey there! I'm Akmal
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Welcome to my Github profile!
 
-I'm a FullStack Web Developer.
+I'm a FullStack Web Developer hailing from the beautiful city of Tashkent, Uzbekistan. 
 
-I'm from Tashkent, Uzbekistan, and I speak english and russian.
+When I'm not busy coding away, you can find me traveling to new and exciting places, trying out delicious cuisines, and participating in various sports and outdoor activities such as tennis, ping pong, hiking, camping, cycling, and pool.
 
-In addition to programming and web development, I really enjoy travelling, trying out different cuisines and checking out new places.
-Apart from that, I'm into different sports and outdoor activities, such as tennis, ping pong, hiking, camping, cycling, pool and many more. I like to try new things every single time.
-Also, I like to spend my free time by reading books (mostly science fiction), learning to play musical instruments (particularly guitar), and having interesting and deep conversations about anything.
+But my interests don't stop there. In my free time, I enjoy delving into science fiction novels, learning to play musical instruments (particularly the guitar), and engaging in deep and thought-provoking conversations on a variety of topics.
+
+So whether I'm coding up a storm or exploring the world, I'm always on the lookout for new and exciting experiences. Thanks for stopping by!
 
 ### 🛠 &nbsp;Tech Stack
 
