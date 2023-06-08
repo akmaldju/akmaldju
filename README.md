@@ -49,7 +49,7 @@ So whether I'm coding up a storm or exploring the world, I'm always on the looko
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://akmal.now.sh"><img src="https://img.shields.io/badge/-Akmal%20Djumakhodjaev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://akmaldju.com"><img src="https://img.shields.io/badge/-Akmal%20Djumakhodjaev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://facebook.com/akmal.djumakhodjaev"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://linkedin.com/in/akmal-djumakhodjaev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:akmal070597@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -58,5 +58,5 @@ So whether I'm coding up a storm or exploring the world, I'm always on the looko
 <a href="https://t.me/akmal_djumakhodjaev"><img src="https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
-### 💼 &nbsp;Check Out My Second Account: 
-<p align="center"><a href="https://github.com/akmal-binary"><img src="https://img.shields.io/badge/Akmal%20Binary-000000?style=for-the-badge&logo=Github&logoColor=white"/></a></p>
+### 💼 &nbsp;Check Out My Working Account: 
+<p align="center"><a href="https://github.com/akmal-deriv"><img src="https://img.shields.io/badge/Akmal%20Binary-000000?style=for-the-badge&logo=Github&logoColor=white"/></a></p>
